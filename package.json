@@ -1,0 +1,28 @@
+{
+  "name": "tooensure.devkit",
+  "version": "1.0.0",
+  "description": "All-In-One Frontend Development Kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TooEnsureLLC/DevKit.git"
+  },
+  "keywords": [
+    "sass",
+    "typescript",
+    "javascript",
+    "css"
+  ],
+  "author": "Shawn Doe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TooEnsureLLC/DevKit/issues"
+  },
+  "homepage": "https://github.com/TooEnsureLLC/DevKit#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
